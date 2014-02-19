@@ -3,7 +3,7 @@ yowsup
 
 A clone of tgalal's [Yowsup](https://github.com/tgalal/yowsup) library
 
-WhatsApp Inc has issued a takedown notice to tgalal's official Yowsup repository. It is my belief that his work is permissible under [Section 1201(f)](http://www.law.cornell.edu/uscode/text/17/1201) which allows for Reverse Engineering any protected work in order to achieve interoperability on various platforms. I hope [tgalal](https://github.com/tgalal) initiates legal proceedings against WhatsApp Inc for damages under [Section 512(f)](http://www.law.cornell.edu/uscode/text/17/512) for their misrepresentations.
+WhatsApp Inc has issued a [takedown notice](https://github.com/github/dmca/blob/master/2014-02-12-WhatsApp.md) to tgalal's official Yowsup repository. It is my belief that his work is permissible under [Section 1201(f)](http://www.law.cornell.edu/uscode/text/17/1201) which allows for Reverse Engineering any protected work in order to achieve interoperability on various platforms. I hope [tgalal](https://github.com/tgalal) initiates legal proceedings against WhatsApp Inc for damages under [Section 512(f)](http://www.law.cornell.edu/uscode/text/17/512) for their misrepresentations.
 
 ## About Yowsup
 Yowsup is a python library that allows you to login and use the WhatsApp(TM) service and provides you with all capabilities of an official WhatsApp(TM) client, allowing you to create a full-fledged custom WhatsApp(TM) client. Yowsup also comes with a cross platform command-line frontend called yowsup-cli which allows you to jump into connecting and using WhatsApp(TM) service directly from command line.
